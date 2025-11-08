@@ -1,0 +1,41 @@
+{
+  "quran-wordbyword-2": {
+    "count": 6233,
+    "file": "quran-wordbyword-2.json",
+    "editionMeta": {
+      "identifier": "quran-wordbyword-2",
+      "language": "ar",
+      "name": "معاني مفردات القرآن ولفظها (wordbyword-2)",
+      "englishName": "Word by Word Transaltion by Dr. Shehnaz Shaikh",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  },
+  "quran-unicode": {
+    "count": 991,
+    "file": "quran-unicode.json",
+    "editionMeta": {
+      "identifier": "quran-unicode",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (unicode)",
+      "englishName": "Unicode Quran text from Khaled Hosny",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  },
+  "quran-uthmani-quran-academy": {
+    "count": 1771,
+    "file": "quran-uthmani-quran-academy.json",
+    "editionMeta": {
+      "identifier": "quran-uthmani-quran-academy",
+      "language": "ar",
+      "name": "القرآن الكريم برسم العثماني (quran-academy)",
+      "englishName": "Modified Quran Uthmani Text from the Quran Academy to work with the Kitab font",
+      "format": "text",
+      "type": "quran",
+      "direction": "rtl"
+    }
+  }
+}
