@@ -1,3 +1,5 @@
 node_modules/
 *.env
 scripts/
+package.json
+pnpm-lock.yaml

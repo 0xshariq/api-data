@@ -1,6 +1,6 @@
 {
   "quran-wordbyword-2": {
-    "count": 6233,
+    "count": 6236,
     "file": "quran-wordbyword-2.json",
     "editionMeta": {
       "identifier": "quran-wordbyword-2",
@@ -13,7 +13,7 @@
     }
   },
   "quran-unicode": {
-    "count": 991,
+    "count": 6236,
     "file": "quran-unicode.json",
     "editionMeta": {
       "identifier": "quran-unicode",
@@ -26,7 +26,7 @@
     }
   },
   "quran-uthmani-quran-academy": {
-    "count": 1771,
+    "count": 6236,
     "file": "quran-uthmani-quran-academy.json",
     "editionMeta": {
       "identifier": "quran-uthmani-quran-academy",
@@ -36,6 +36,435 @@
       "format": "text",
       "type": "quran",
       "direction": "rtl"
+    }
+  },
+  "ba.mehanovic": {
+    "count": 6236,
+    "file": "ba.mehanovic.json",
+    "editionMeta": {
+      "identifier": "ba.mehanovic",
+      "language": "ba",
+      "name": "Kur'an - sa prevodom (značenja) na bosanski jezik, utemeljen na Ibn Kesirovom tumačenju, i kratki komentar",
+      "englishName": "Quran translation by Muhamed Mehanovic",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ru.kuliev-audio": {
+    "count": 6236,
+    "file": "ru.kuliev-audio.json",
+    "editionMeta": {
+      "identifier": "ru.kuliev-audio",
+      "language": "ru",
+      "name": "Elmir Kuliev by 1MuslimApp",
+      "englishName": "Elmir Kuliev by 1MuslimApp",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    }
+  },
+  "en.itani": {
+    "count": 6236,
+    "file": "en.itani.json",
+    "editionMeta": {
+      "identifier": "en.itani",
+      "language": "en",
+      "name": "Clear Qur'an - Talal Itani",
+      "englishName": "Clear Qur'an by Talal Itani",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ar.qurtubi": {
+    "count": 6236,
+    "file": "ar.qurtubi.json",
+    "editionMeta": {
+      "identifier": "ar.qurtubi",
+      "language": "ar",
+      "name": "تفسير القرطبي",
+      "englishName": "Tafseer Al Qurtubi",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    }
+  },
+  "ar.miqbas": {
+    "count": 6236,
+    "file": "ar.miqbas.json",
+    "editionMeta": {
+      "identifier": "ar.miqbas",
+      "language": "ar",
+      "name": "تنوير المقباس من تفسير بن عباس",
+      "englishName": "Tafseer Tanwir al-Miqbas",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    }
+  },
+  "ar.waseet": {
+    "count": 6234,
+    "file": "ar.waseet.json",
+    "editionMeta": {
+      "identifier": "ar.waseet",
+      "language": "ar",
+      "name": "الـتـفـسـيـر الـوسـيـط",
+      "englishName": "Tafseer Al-Waseet",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    }
+  },
+  "ar.baghawi": {
+    "count": 6236,
+    "file": "ar.baghawi.json",
+    "editionMeta": {
+      "identifier": "ar.baghawi",
+      "language": "ar",
+      "name": "تفسير البغوي",
+      "englishName": "Tafseer Al-Baghawi",
+      "format": "text",
+      "type": "tafsir",
+      "direction": "rtl"
+    }
+  },
+  "my.ghazi": {
+    "count": 6235,
+    "file": "my.ghazi.json",
+    "editionMeta": {
+      "identifier": "my.ghazi",
+      "language": "my",
+      "name": "Ghazi Muhammed Hashim",
+      "englishName": "Translation by Ghazi Muhammed Hashim",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "en.mubarakpuri": {
+    "count": 6236,
+    "file": "en.mubarakpuri.json",
+    "editionMeta": {
+      "identifier": "en.mubarakpuri",
+      "language": "en",
+      "name": "Mubarakpuri",
+      "englishName": "Mubarakpuri",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "am.sadiq": {
+    "count": 6236,
+    "file": "am.sadiq.json",
+    "editionMeta": {
+      "identifier": "am.sadiq",
+      "language": "am",
+      "name": "ሳዲቅ & ሳኒ ሐቢብ",
+      "englishName": "ሳዲቅ & ሳኒ ሐቢብ",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ber.mensur": {
+    "count": 6236,
+    "file": "ber.mensur.json",
+    "editionMeta": {
+      "identifier": "ber.mensur",
+      "language": "ber",
+      "name": "At Mensur",
+      "englishName": "At Mensur",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "bn.hoque": {
+    "count": 6236,
+    "file": "bn.hoque.json",
+    "editionMeta": {
+      "identifier": "bn.hoque",
+      "language": "bn",
+      "name": "জহুরুল হক",
+      "englishName": "জহুরুল হক",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "en.qarai": {
+    "count": 6236,
+    "file": "en.qarai.json",
+    "editionMeta": {
+      "identifier": "en.qarai",
+      "language": "en",
+      "name": "Qarai",
+      "englishName": "Qarai",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "en.wahiduddin": {
+    "count": 6236,
+    "file": "en.wahiduddin.json",
+    "editionMeta": {
+      "identifier": "en.wahiduddin",
+      "language": "en",
+      "name": "Wahiduddin Khan",
+      "englishName": "Wahiduddin Khan",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "es.bornez": {
+    "count": 6236,
+    "file": "es.bornez.json",
+    "editionMeta": {
+      "identifier": "es.bornez",
+      "language": "es",
+      "name": "Bornez",
+      "englishName": "Bornez",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "es.garcia": {
+    "count": 6236,
+    "file": "es.garcia.json",
+    "editionMeta": {
+      "identifier": "es.garcia",
+      "language": "es",
+      "name": "Garcia",
+      "englishName": "Garcia",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ur.najafi": {
+    "count": 6236,
+    "file": "ur.najafi.json",
+    "editionMeta": {
+      "identifier": "ur.najafi",
+      "language": "ur",
+      "name": "محمد حسین نجفی",
+      "englishName": "محمد حسین نجفی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "fa.gharaati": {
+    "count": 6236,
+    "file": "fa.gharaati.json",
+    "editionMeta": {
+      "identifier": "fa.gharaati",
+      "language": "fa",
+      "name": "قرائتی",
+      "englishName": "قرائتی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "fa.sadeqi": {
+    "count": 6236,
+    "file": "fa.sadeqi.json",
+    "editionMeta": {
+      "identifier": "fa.sadeqi",
+      "language": "fa",
+      "name": "صادقی تهرانی",
+      "englishName": "صادقی تهرانی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "fa.safavi": {
+    "count": 6236,
+    "file": "fa.safavi.json",
+    "editionMeta": {
+      "identifier": "fa.safavi",
+      "language": "fa",
+      "name": "صفوی",
+      "englishName": "صفوی",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "id.jalalayn": {
+    "count": 6236,
+    "file": "id.jalalayn.json",
+    "editionMeta": {
+      "identifier": "id.jalalayn",
+      "language": "id",
+      "name": "Tafsir Jalalayn",
+      "englishName": "Tafsir Jalalayn",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ml.karakunnu": {
+    "count": 6236,
+    "file": "ml.karakunnu.json",
+    "editionMeta": {
+      "identifier": "ml.karakunnu",
+      "language": "ml",
+      "name": "കാരകുന്ന് & എളയാവൂര്",
+      "englishName": "കാരകുന്ന് & എളയാവൂര്",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "nl.leemhuis": {
+    "count": 6236,
+    "file": "nl.leemhuis.json",
+    "editionMeta": {
+      "identifier": "nl.leemhuis",
+      "language": "nl",
+      "name": "Leemhuis",
+      "englishName": "Leemhuis",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "nl.siregar": {
+    "count": 6236,
+    "file": "nl.siregar.json",
+    "editionMeta": {
+      "identifier": "nl.siregar",
+      "language": "nl",
+      "name": "Siregar",
+      "englishName": "Siregar",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ps.abdulwali": {
+    "count": 6236,
+    "file": "ps.abdulwali.json",
+    "editionMeta": {
+      "identifier": "ps.abdulwali",
+      "language": "ps",
+      "name": "عبدالولي",
+      "englishName": "عبدالولي",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "ru.kuliev-alsaadi": {
+    "count": 6236,
+    "file": "ru.kuliev-alsaadi.json",
+    "editionMeta": {
+      "identifier": "ru.kuliev-alsaadi",
+      "language": "ru",
+      "name": "Кулиев + ас-Саади",
+      "englishName": "Кулиев + ас-Саади",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ru.kuliev-audio-2": {
+    "count": 6236,
+    "file": "ru.kuliev-audio-2.json",
+    "editionMeta": {
+      "identifier": "ru.kuliev-audio-2",
+      "language": "ru",
+      "name": "Elmir Kuliev 2 by 1MuslimApp",
+      "englishName": "Elmir Kuliev 2 by 1MuslimApp",
+      "format": "audio",
+      "type": "versebyverse",
+      "direction": null
+    }
+  },
+  "ce.magomedov": {
+    "count": 6236,
+    "file": "ce.magomedov.json",
+    "editionMeta": {
+      "identifier": "ce.magomedov",
+      "language": "ce",
+      "name": "Chechen by Magomedov",
+      "englishName": "Chechen by Magomedov",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "ru.transliteration": {
+    "count": 6236,
+    "file": "ru.transliteration.json",
+    "editionMeta": {
+      "identifier": "ru.transliteration",
+      "language": "ru",
+      "name": "Транскрипция",
+      "englishName": "Russian Transliteration",
+      "format": "text",
+      "type": "transliteration",
+      "direction": "ltr"
+    }
+  },
+  "tr.golpinarli": {
+    "count": 6230,
+    "file": "tr.golpinarli.json",
+    "editionMeta": {
+      "identifier": "tr.golpinarli",
+      "language": "tr",
+      "name": "Abdulbakî Gölpınarlı",
+      "englishName": "Abdulbaki Golpinarli",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "tr.bulac": {
+    "count": 6236,
+    "file": "tr.bulac.json",
+    "editionMeta": {
+      "identifier": "tr.bulac",
+      "language": "tr",
+      "name": "Alİ Bulaç",
+      "englishName": "Alİ Bulaç",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
+    }
+  },
+  "quran-buck": {
+    "count": 6236,
+    "file": "quran-buck.json",
+    "editionMeta": {
+      "identifier": "quran-buck",
+      "language": "ar",
+      "name": "Buck",
+      "englishName": "Buck",
+      "format": "text",
+      "type": "translation",
+      "direction": "rtl"
+    }
+  },
+  "zh.mazhonggang": {
+    "count": 6236,
+    "file": "zh.mazhonggang.json",
+    "editionMeta": {
+      "identifier": "zh.mazhonggang",
+      "language": "zh",
+      "name": "Ma Zhong Gang",
+      "englishName": "马仲刚",
+      "format": "text",
+      "type": "translation",
+      "direction": "ltr"
     }
   }
 }
